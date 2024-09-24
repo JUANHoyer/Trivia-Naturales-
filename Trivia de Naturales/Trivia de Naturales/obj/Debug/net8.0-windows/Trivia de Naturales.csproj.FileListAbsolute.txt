@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\bin\Debug\net8.0-windows\Trivia de Naturales.exe
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\bin\Debug\net8.0-windows\Trivia de Naturales.deps.json
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\bin\Debug\net8.0-windows\Trivia de Naturales.runtimeconfig.json
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\bin\Debug\net8.0-windows\Trivia de Naturales.dll
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\bin\Debug\net8.0-windows\Trivia de Naturales.pdb
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia_de_Naturales.Form1.resources
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia_de_Naturales.Properties.Resources.resources
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.AssemblyInfo.cs
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.dll
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\refint\Trivia de Naturales.dll
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.pdb
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia de Naturales.genruntimeconfig.cache
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\ref\Trivia de Naturales.dll
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia_de_Naturales.PrimeraPregunta.resources
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia_de_Naturales.SegundaPregunta.resources
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia_de_Naturales.RespuestaC.resources
+C:\Users\User\source\repos\Trivia de Naturales\Trivia de Naturales\obj\Debug\net8.0-windows\Trivia_de_Naturales.RespuestaM.resources
